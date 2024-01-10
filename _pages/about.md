@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a fisrt year undergraduate student from [School of SE](https://sse.sysu.edu.cn), [Sun Yat-sen University](https://www.sysu.edu.cn/). My research interest includes AI for SE, Intelligent Code Search, Code Generation, and Effective inference of LLM.
 
-I am very fortunate to be advised by [Prof.Wang](https://sse.sysu.edu.cn) of InplusLab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. 
+I am very fortunate to be advised by [Prof.Wang](https://sse.sysu.edu.cn) of InplusLab from [School of Computer Science](https://cs.pku.edu.cn/), Sun yat-sen University. 
 
 
 [Email](guolh8@mail2.sysu.edu.cn) 
